@@ -1,39 +1,39 @@
 {
   "profile": {
     "user": {
-      "login": "Victus",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/166108445?v=4",
-      "bio": null,
+      "login": "coderSuresh",
+      "name": "Suresh Dahal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48799677?u=114ced2fc60728ea7375cd37a77508dc9abb2fdc&v=4",
+      "bio": "I am a self-motivated IT student",
       "followers": {
-        "totalCount": 0
+        "totalCount": 42
       },
       "following": {
-        "totalCount": 0
+        "totalCount": 30
       },
       "repositories": {
-        "totalCount": 1
+        "totalCount": 108
       },
       "contributionsCollection": {
-        "totalCommitContributions": 0,
+        "totalCommitContributions": 85,
         "totalIssueContributions": 0,
-        "totalPullRequestContributions": 0,
-        "totalPullRequestReviewContributions": 0,
-        "totalRepositoryContributions": 0,
-        "totalRepositoriesWithContributedCommits": 0,
+        "totalPullRequestContributions": 8,
+        "totalPullRequestReviewContributions": 2,
+        "totalRepositoryContributions": 11,
+        "totalRepositoriesWithContributedCommits": 15,
         "totalRepositoriesWithContributedIssues": 0,
-        "totalRepositoriesWithContributedPullRequests": 0,
-        "totalRepositoriesWithContributedPullRequestReviews": 0,
-        "restrictedContributionsCount": 0,
+        "totalRepositoriesWithContributedPullRequests": 4,
+        "totalRepositoriesWithContributedPullRequestReviews": 2,
+        "restrictedContributionsCount": 529,
         "contributionCalendar": {
-          "totalContributions": 0,
+          "totalContributions": 635,
           "weeks": [
             {
               "contributionDays": [
                 {
                   "date": "2025-09-25",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-09-26",
@@ -51,8 +51,8 @@
               "contributionDays": [
                 {
                   "date": "2025-09-28",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-09-29",
@@ -66,8 +66,8 @@
                 },
                 {
                   "date": "2025-10-01",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-10-02",
@@ -105,8 +105,8 @@
                 },
                 {
                   "date": "2025-10-08",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-10-09",
@@ -120,8 +120,8 @@
                 },
                 {
                   "date": "2025-10-11",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 }
               ]
             },
@@ -144,18 +144,18 @@
                 },
                 {
                   "date": "2025-10-15",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-10-16",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-10-17",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 7,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2025-10-18",
@@ -173,13 +173,13 @@
                 },
                 {
                   "date": "2025-10-20",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 6,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2025-10-21",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-10-22",
@@ -193,8 +193,8 @@
                 },
                 {
                   "date": "2025-10-24",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-10-25",
@@ -212,13 +212,13 @@
                 },
                 {
                   "date": "2025-10-27",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-10-28",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-10-29",
@@ -227,13 +227,13 @@
                 },
                 {
                   "date": "2025-10-30",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-10-31",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 7,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2025-11-01",
@@ -246,13 +246,13 @@
               "contributionDays": [
                 {
                   "date": "2025-11-02",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-11-03",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-11-04",
@@ -261,8 +261,8 @@
                 },
                 {
                   "date": "2025-11-05",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-11-06",
@@ -276,8 +276,8 @@
                 },
                 {
                   "date": "2025-11-08",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 }
               ]
             },
@@ -300,8 +300,8 @@
                 },
                 {
                   "date": "2025-11-12",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-11-13",
@@ -329,8 +329,8 @@
                 },
                 {
                   "date": "2025-11-17",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-11-18",
@@ -383,18 +383,18 @@
                 },
                 {
                   "date": "2025-11-27",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-11-28",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 21,
+                  "contributionLevel": "FOURTH_QUARTILE"
                 },
                 {
                   "date": "2025-11-29",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 14,
+                  "contributionLevel": "FOURTH_QUARTILE"
                 }
               ]
             },
@@ -402,13 +402,13 @@
               "contributionDays": [
                 {
                   "date": "2025-11-30",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 6,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2025-12-01",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-12-02",
@@ -456,13 +456,13 @@
                 },
                 {
                   "date": "2025-12-10",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-12-11",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 6,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2025-12-12",
@@ -471,8 +471,8 @@
                 },
                 {
                   "date": "2025-12-13",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
                 }
               ]
             },
@@ -480,18 +480,18 @@
               "contributionDays": [
                 {
                   "date": "2025-12-14",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 22,
+                  "contributionLevel": "FOURTH_QUARTILE"
                 },
                 {
                   "date": "2025-12-15",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-12-16",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 7,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2025-12-17",
@@ -500,13 +500,13 @@
                 },
                 {
                   "date": "2025-12-18",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-12-19",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 9,
+                  "contributionLevel": "THIRD_QUARTILE"
                 },
                 {
                   "date": "2025-12-20",
@@ -519,8 +519,8 @@
               "contributionDays": [
                 {
                   "date": "2025-12-21",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-12-22",
@@ -529,8 +529,8 @@
                 },
                 {
                   "date": "2025-12-23",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2025-12-24",
@@ -549,8 +549,8 @@
                 },
                 {
                   "date": "2025-12-27",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
                 }
               ]
             },
@@ -578,18 +578,18 @@
                 },
                 {
                   "date": "2026-01-01",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 6,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-01-02",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-01-03",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 21,
+                  "contributionLevel": "FOURTH_QUARTILE"
                 }
               ]
             },
@@ -622,13 +622,13 @@
                 },
                 {
                   "date": "2026-01-09",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 5,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-01-10",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 }
               ]
             },
@@ -641,8 +641,8 @@
                 },
                 {
                   "date": "2026-01-12",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-01-13",
@@ -661,13 +661,13 @@
                 },
                 {
                   "date": "2026-01-16",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-01-17",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 8,
+                  "contributionLevel": "SECOND_QUARTILE"
                 }
               ]
             },
@@ -700,8 +700,8 @@
                 },
                 {
                   "date": "2026-01-23",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-01-24",
@@ -714,8 +714,8 @@
               "contributionDays": [
                 {
                   "date": "2026-01-25",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-01-26",
@@ -724,23 +724,23 @@
                 },
                 {
                   "date": "2026-01-27",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 7,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-01-28",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 11,
+                  "contributionLevel": "THIRD_QUARTILE"
                 },
                 {
                   "date": "2026-01-29",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 6,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-01-30",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 15,
+                  "contributionLevel": "FOURTH_QUARTILE"
                 },
                 {
                   "date": "2026-01-31",
@@ -783,8 +783,8 @@
                 },
                 {
                   "date": "2026-02-07",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 7,
+                  "contributionLevel": "SECOND_QUARTILE"
                 }
               ]
             },
@@ -792,18 +792,18 @@
               "contributionDays": [
                 {
                   "date": "2026-02-08",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-02-09",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 25,
+                  "contributionLevel": "FOURTH_QUARTILE"
                 },
                 {
                   "date": "2026-02-10",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 13,
+                  "contributionLevel": "FOURTH_QUARTILE"
                 },
                 {
                   "date": "2026-02-11",
@@ -812,8 +812,8 @@
                 },
                 {
                   "date": "2026-02-12",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-02-13",
@@ -822,8 +822,8 @@
                 },
                 {
                   "date": "2026-02-14",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 5,
+                  "contributionLevel": "SECOND_QUARTILE"
                 }
               ]
             },
@@ -856,8 +856,8 @@
                 },
                 {
                   "date": "2026-02-20",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-02-21",
@@ -885,8 +885,8 @@
                 },
                 {
                   "date": "2026-02-25",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 5,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-02-26",
@@ -895,13 +895,13 @@
                 },
                 {
                   "date": "2026-02-27",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-02-28",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 }
               ]
             },
@@ -909,13 +909,13 @@
               "contributionDays": [
                 {
                   "date": "2026-03-01",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-03-02",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 7,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-03-03",
@@ -924,23 +924,23 @@
                 },
                 {
                   "date": "2026-03-04",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-03-05",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 6,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-03-06",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-03-07",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 6,
+                  "contributionLevel": "SECOND_QUARTILE"
                 }
               ]
             },
@@ -963,8 +963,8 @@
                 },
                 {
                   "date": "2026-03-11",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-03-12",
@@ -987,8 +987,8 @@
               "contributionDays": [
                 {
                   "date": "2026-03-15",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 6,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-03-16",
@@ -997,28 +997,28 @@
                 },
                 {
                   "date": "2026-03-17",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-03-18",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 6,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-03-19",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-03-20",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-03-21",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 }
               ]
             },
@@ -1026,13 +1026,13 @@
               "contributionDays": [
                 {
                   "date": "2026-03-22",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-03-23",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 6,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-03-24",
@@ -1041,8 +1041,8 @@
                 },
                 {
                   "date": "2026-03-25",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-03-26",
@@ -1065,8 +1065,8 @@
               "contributionDays": [
                 {
                   "date": "2026-03-29",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-03-30",
@@ -1090,8 +1090,8 @@
                 },
                 {
                   "date": "2026-04-03",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-04-04",
@@ -1104,13 +1104,13 @@
               "contributionDays": [
                 {
                   "date": "2026-04-05",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-04-06",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 12,
+                  "contributionLevel": "THIRD_QUARTILE"
                 },
                 {
                   "date": "2026-04-07",
@@ -1119,8 +1119,8 @@
                 },
                 {
                   "date": "2026-04-08",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-04-09",
@@ -1129,8 +1129,8 @@
                 },
                 {
                   "date": "2026-04-10",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 5,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-04-11",
@@ -1148,8 +1148,8 @@
                 },
                 {
                   "date": "2026-04-13",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-04-14",
@@ -1158,23 +1158,23 @@
                 },
                 {
                   "date": "2026-04-15",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-04-16",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 9,
+                  "contributionLevel": "THIRD_QUARTILE"
                 },
                 {
                   "date": "2026-04-17",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 5,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-04-18",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 15,
+                  "contributionLevel": "FOURTH_QUARTILE"
                 }
               ]
             },
@@ -1182,13 +1182,13 @@
               "contributionDays": [
                 {
                   "date": "2026-04-19",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-04-20",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-04-21",
@@ -1202,18 +1202,18 @@
                 },
                 {
                   "date": "2026-04-23",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 10,
+                  "contributionLevel": "THIRD_QUARTILE"
                 },
                 {
                   "date": "2026-04-24",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 16,
+                  "contributionLevel": "FOURTH_QUARTILE"
                 },
                 {
                   "date": "2026-04-25",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 }
               ]
             },
@@ -1221,13 +1221,13 @@
               "contributionDays": [
                 {
                   "date": "2026-04-26",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-04-27",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-04-28",
@@ -1260,8 +1260,8 @@
               "contributionDays": [
                 {
                   "date": "2026-05-03",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-05-04",
@@ -1270,8 +1270,8 @@
                 },
                 {
                   "date": "2026-05-05",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-05-06",
@@ -1285,13 +1285,13 @@
                 },
                 {
                   "date": "2026-05-08",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-05-09",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 15,
+                  "contributionLevel": "FOURTH_QUARTILE"
                 }
               ]
             },
@@ -1299,8 +1299,8 @@
               "contributionDays": [
                 {
                   "date": "2026-05-10",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-05-11",
@@ -1329,8 +1329,8 @@
                 },
                 {
                   "date": "2026-05-16",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 }
               ]
             },
@@ -1338,8 +1338,8 @@
               "contributionDays": [
                 {
                   "date": "2026-05-17",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-05-18",
@@ -1358,18 +1358,18 @@
                 },
                 {
                   "date": "2026-05-21",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-05-22",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 10,
+                  "contributionLevel": "THIRD_QUARTILE"
                 },
                 {
                   "date": "2026-05-23",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 8,
+                  "contributionLevel": "SECOND_QUARTILE"
                 }
               ]
             },
@@ -1475,8 +1475,8 @@
                 },
                 {
                   "date": "2026-06-11",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-06-12",
@@ -1485,8 +1485,8 @@
                 },
                 {
                   "date": "2026-06-13",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 }
               ]
             },
@@ -1494,8 +1494,8 @@
               "contributionDays": [
                 {
                   "date": "2026-06-14",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-06-15",
@@ -1509,8 +1509,8 @@
                 },
                 {
                   "date": "2026-06-17",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-06-18",
@@ -1563,8 +1563,8 @@
                 },
                 {
                   "date": "2026-06-27",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 }
               ]
             },
@@ -1611,8 +1611,8 @@
               "contributionDays": [
                 {
                   "date": "2026-07-05",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-07-06",
@@ -1631,8 +1631,8 @@
                 },
                 {
                   "date": "2026-07-09",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-07-10",
@@ -1641,8 +1641,8 @@
                 },
                 {
                   "date": "2026-07-11",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 }
               ]
             },
@@ -1655,23 +1655,23 @@
                 },
                 {
                   "date": "2026-07-13",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-07-14",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-07-15",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-07-16",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-07-17",
@@ -1699,28 +1699,28 @@
                 },
                 {
                   "date": "2026-07-21",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-07-22",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-07-23",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-07-24",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-07-25",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 }
               ]
             },
@@ -1743,8 +1743,8 @@
                 },
                 {
                   "date": "2026-07-29",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-07-30",
@@ -1777,23 +1777,23 @@
                 },
                 {
                   "date": "2026-08-04",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-08-05",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-08-06",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 6,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-08-07",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-08-08",
@@ -1811,8 +1811,8 @@
                 },
                 {
                   "date": "2026-08-10",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-08-11",
@@ -1860,8 +1860,8 @@
                 },
                 {
                   "date": "2026-08-19",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-08-20",
@@ -1899,8 +1899,8 @@
                 },
                 {
                   "date": "2026-08-26",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-08-27",
@@ -1909,8 +1909,8 @@
                 },
                 {
                   "date": "2026-08-28",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-08-29",
@@ -1943,13 +1943,13 @@
                 },
                 {
                   "date": "2026-09-03",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-09-04",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-09-05",
@@ -1962,13 +1962,13 @@
               "contributionDays": [
                 {
                   "date": "2026-09-06",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-09-07",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-09-08",
@@ -1977,23 +1977,23 @@
                 },
                 {
                   "date": "2026-09-09",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 3,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-09-10",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 2,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-09-11",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 5,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-09-12",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 7,
+                  "contributionLevel": "SECOND_QUARTILE"
                 }
               ]
             },
@@ -2006,8 +2006,8 @@
                 },
                 {
                   "date": "2026-09-14",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 7,
+                  "contributionLevel": "SECOND_QUARTILE"
                 },
                 {
                   "date": "2026-09-15",
@@ -2021,8 +2021,8 @@
                 },
                 {
                   "date": "2026-09-17",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 1,
+                  "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-09-18",
@@ -2050,8 +2050,8 @@
                 },
                 {
                   "date": "2026-09-22",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 9,
+                  "contributionLevel": "THIRD_QUARTILE"
                 },
                 {
                   "date": "2026-09-23",
@@ -2065,8 +2065,8 @@
                 },
                 {
                   "date": "2026-09-25",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
+                  "contributionCount": 9,
+                  "contributionLevel": "THIRD_QUARTILE"
                 }
               ]
             }
@@ -2150,11 +2150,39 @@
   },
   "repositories": [
     {
-      "id": "R_kgDONwlmKg",
-      "name": "Auto-joins",
-      "nameWithOwner": "Victus/Auto-joins",
+      "id": "R_kgDOUq9P5g",
+      "name": "github-visualizer",
+      "nameWithOwner": "coderSuresh/github-visualizer",
+      "description": "GitHub Stats Visualizer",
+      "url": "https://github.com/coderSuresh/github-visualizer",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 14006,
+        "edges": [
+          {
+            "size": 14006,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOHCSHZA",
+      "name": "codersuresh",
+      "nameWithOwner": "coderSuresh/codersuresh",
       "description": null,
-      "url": "https://github.com/Victus/Auto-joins",
+      "url": "https://github.com/coderSuresh/codersuresh",
       "isFork": false,
       "isArchived": false,
       "isPrivate": false,
@@ -2165,18 +2193,4327 @@
         "totalSize": 0,
         "edges": []
       }
+    },
+    {
+      "id": "R_kgDOUW5mnA",
+      "name": "imagecon",
+      "nameWithOwner": "coderSuresh/imagecon",
+      "description": "Browser-based image converter with workers",
+      "url": "https://github.com/coderSuresh/imagecon",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "totalSize": 36916,
+        "edges": [
+          {
+            "size": 35504,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 853,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 559,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOUaTWvQ",
+      "name": "web-assembly-image-filter",
+      "nameWithOwner": "coderSuresh/web-assembly-image-filter",
+      "description": "Exploring WebAssembly by building a simple image grayscale filter.",
+      "url": "https://github.com/coderSuresh/web-assembly-image-filter",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 5816,
+        "edges": [
+          {
+            "size": 2078,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 1427,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 1205,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1106,
+            "node": {
+              "name": "C",
+              "color": "#555555"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOIuyBZQ",
+      "name": "privacy-policy",
+      "nameWithOwner": "coderSuresh/privacy-policy",
+      "description": "Contains privacy policy for different apps",
+      "url": "https://github.com/coderSuresh/privacy-policy",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 13956,
+        "edges": [
+          {
+            "size": 13956,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOLBtbmg",
+      "name": "BIT-TU-2080",
+      "nameWithOwner": "coderSuresh/BIT-TU-2080",
+      "description": "Contains syllabus, theory, practical and many more. All in one for TU BIT 2080 batch",
+      "url": "https://github.com/coderSuresh/BIT-TU-2080",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 3,
+      "forkCount": 3,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": {
+        "totalSize": 194209,
+        "edges": [
+          {
+            "size": 88726,
+            "node": {
+              "name": "C++",
+              "color": "#f34b7d"
+            }
+          },
+          {
+            "size": 80418,
+            "node": {
+              "name": "C",
+              "color": "#555555"
+            }
+          },
+          {
+            "size": 22928,
+            "node": {
+              "name": "PHP",
+              "color": "#4F5D95"
+            }
+          },
+          {
+            "size": 2137,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOIsTjSw",
+      "name": "online-food-ordering-system",
+      "nameWithOwner": "coderSuresh/online-food-ordering-system",
+      "description": "This is a simple online food ordering system web application that allows users to order food online.",
+      "url": "https://github.com/coderSuresh/online-food-ordering-system",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 3,
+      "forkCount": 2,
+      "primaryLanguage": {
+        "name": "PHP",
+        "color": "#4F5D95"
+      },
+      "languages": {
+        "totalSize": 641037,
+        "edges": [
+          {
+            "size": 534592,
+            "node": {
+              "name": "PHP",
+              "color": "#4F5D95"
+            }
+          },
+          {
+            "size": 51185,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 38229,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 14316,
+            "node": {
+              "name": "Hack",
+              "color": "#878787"
+            }
+          },
+          {
+            "size": 2715,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDORnffnw",
+      "name": "Encrypter",
+      "nameWithOwner": "coderSuresh/Encrypter",
+      "description": "Creating API for encryption algorithm studied on Information Security using FastApi",
+      "url": "https://github.com/coderSuresh/Encrypter",
+      "isFork": true,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 31006,
+        "edges": [
+          {
+            "size": 13327,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 10854,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 5434,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1391,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDORgFMXw",
+      "name": "Server-Sent-Events-Demo",
+      "nameWithOwner": "coderSuresh/Server-Sent-Events-Demo",
+      "description": null,
+      "url": "https://github.com/coderSuresh/Server-Sent-Events-Demo",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 1561,
+        "edges": [
+          {
+            "size": 825,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 736,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDORaLNeg",
+      "name": "multi-tab-sync-using-broadcast-channel",
+      "nameWithOwner": "coderSuresh/multi-tab-sync-using-broadcast-channel",
+      "description": null,
+      "url": "https://github.com/coderSuresh/multi-tab-sync-using-broadcast-channel",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 924,
+        "edges": [
+          {
+            "size": 924,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDORCDOYQ",
+      "name": "express-queue-image-processing",
+      "nameWithOwner": "coderSuresh/express-queue-image-processing",
+      "description": null,
+      "url": "https://github.com/coderSuresh/express-queue-image-processing",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 7085,
+        "edges": [
+          {
+            "size": 7085,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOJ14MPw",
+      "name": "image-gallery",
+      "nameWithOwner": "coderSuresh/image-gallery",
+      "description": "Image gallery made using Next.js, Tailwindcss, and Pexels API",
+      "url": "https://github.com/coderSuresh/image-gallery",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 2,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "totalSize": 8718,
+        "edges": [
+          {
+            "size": 7487,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 729,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 502,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOQ7q_JA",
+      "name": "express-csrf",
+      "nameWithOwner": "coderSuresh/express-csrf",
+      "description": null,
+      "url": "https://github.com/coderSuresh/express-csrf",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 2,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 13410,
+        "edges": [
+          {
+            "size": 9653,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 3757,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOQ7AS4Q",
+      "name": "express-access-refresh-token",
+      "nameWithOwner": "coderSuresh/express-access-refresh-token",
+      "description": "Express Access & Refresh Token Auth API",
+      "url": "https://github.com/coderSuresh/express-access-refresh-token",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 10677,
+        "edges": [
+          {
+            "size": 10677,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOQy4M6g",
+      "name": "Gokuldham-society",
+      "nameWithOwner": "coderSuresh/Gokuldham-society",
+      "description": "inspired from tv show",
+      "url": "https://github.com/coderSuresh/Gokuldham-society",
+      "isFork": true,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "totalSize": 60642,
+        "edges": [
+          {
+            "size": 49710,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 10006,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 559,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 367,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOOLQziQ",
+      "name": "NM-Solver",
+      "nameWithOwner": "coderSuresh/NM-Solver",
+      "description": "Numerical Method Solver",
+      "url": "https://github.com/coderSuresh/NM-Solver",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "totalSize": 122297,
+        "edges": [
+          {
+            "size": 100072,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 17450,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 4775,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOQT-peQ",
+      "name": "markify",
+      "nameWithOwner": "coderSuresh/markify",
+      "description": "Markify — Elevate your PDF experience with intuitive annotations, highlighting, and sticky notes built for productivity.",
+      "url": "https://github.com/coderSuresh/markify",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 90606,
+        "edges": [
+          {
+            "size": 58629,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 16939,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 13244,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1794,
+            "node": {
+              "name": "PowerShell",
+              "color": "#012456"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyODc2NzEyMTQ=",
+      "name": "coderSuresh.github.io",
+      "nameWithOwner": "coderSuresh/coderSuresh.github.io",
+      "description": null,
+      "url": "https://github.com/coderSuresh/coderSuresh.github.io",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 6575,
+        "edges": [
+          {
+            "size": 3452,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 2036,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1087,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOOJZAfA",
+      "name": "Tic_Tac_Toe",
+      "nameWithOwner": "coderSuresh/Tic_Tac_Toe",
+      "description": "A Tic Tac Toe game featuring an unbeatable AI opponent using the minimax algorithm, along with a 2-player mode. Built with JavaScript, HTML5, and CSS3.",
+      "url": "https://github.com/coderSuresh/Tic_Tac_Toe",
+      "isFork": true,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 8645,
+        "edges": [
+          {
+            "size": 5036,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 1814,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 1795,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOOFQxkA",
+      "name": "File_Encrypter_and_Decrypter",
+      "nameWithOwner": "coderSuresh/File_Encrypter_and_Decrypter",
+      "description": "This app can encrypt and decrypt files using AES algorithm.",
+      "url": "https://github.com/coderSuresh/File_Encrypter_and_Decrypter",
+      "isFork": true,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "totalSize": 1730,
+        "edges": [
+          {
+            "size": 1730,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOKFD5Kg",
+      "name": "real-time-chat",
+      "nameWithOwner": "coderSuresh/real-time-chat",
+      "description": "Real time chat app using socket.io",
+      "url": "https://github.com/coderSuresh/real-time-chat",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 2,
+      "forkCount": 2,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "totalSize": 11367,
+        "edges": [
+          {
+            "size": 10255,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 1053,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 59,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOKRne_A",
+      "name": "fullstack-comment-section",
+      "nameWithOwner": "coderSuresh/fullstack-comment-section",
+      "description": null,
+      "url": "https://github.com/coderSuresh/fullstack-comment-section",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 1,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "totalSize": 69437,
+        "edges": [
+          {
+            "size": 68134,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 727,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 576,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOH2InMg",
+      "name": "learn-react",
+      "nameWithOwner": "coderSuresh/learn-react",
+      "description": "All React projects created while learning",
+      "url": "https://github.com/coderSuresh/learn-react",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 2,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 84125,
+        "edges": [
+          {
+            "size": 54902,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 22941,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 3266,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 3016,
+            "node": {
+              "name": "SCSS",
+              "color": "#c6538c"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOMfmtqQ",
+      "name": "metadata_checker_remover",
+      "nameWithOwner": "coderSuresh/metadata_checker_remover",
+      "description": "A simple tool to check and remove metadata from a image file using exiv2",
+      "url": "https://github.com/coderSuresh/metadata_checker_remover",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": {
+        "totalSize": 1831,
+        "edges": [
+          {
+            "size": 1831,
+            "node": {
+              "name": "C++",
+              "color": "#f34b7d"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOKld5WQ",
+      "name": "todo-list",
+      "nameWithOwner": "coderSuresh/todo-list",
+      "description": "Todo list with PWA and drag to re-order functionality. Seamlessly works offline.",
+      "url": "https://github.com/coderSuresh/todo-list",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "totalSize": 20145,
+        "edges": [
+          {
+            "size": 17818,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 1269,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 1058,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOJ4MCzw",
+      "name": "url-shortener",
+      "nameWithOwner": "coderSuresh/url-shortener",
+      "description": "A functional URL shortener in Nextjs",
+      "url": "https://github.com/coderSuresh/url-shortener",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 2,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "totalSize": 26464,
+        "edges": [
+          {
+            "size": 22182,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 1817,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 1816,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 649,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOLeoaGQ",
+      "name": "masonry-gallery",
+      "nameWithOwner": "coderSuresh/masonry-gallery",
+      "description": "Masonry gallery and utilization of lightGallery.js",
+      "url": "https://github.com/coderSuresh/masonry-gallery",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 7783,
+        "edges": [
+          {
+            "size": 6178,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1605,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOKMvbgw",
+      "name": "multi-step-form",
+      "nameWithOwner": "coderSuresh/multi-step-form",
+      "description": "Multi step form",
+      "url": "https://github.com/coderSuresh/multi-step-form",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "totalSize": 25315,
+        "edges": [
+          {
+            "size": 24086,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 667,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 562,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOLief3w",
+      "name": "e-botuka",
+      "nameWithOwner": "coderSuresh/e-botuka",
+      "description": "By the poor, for the poor. A digital way of begging.",
+      "url": "https://github.com/coderSuresh/e-botuka",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 1,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 29345,
+        "edges": [
+          {
+            "size": 14252,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 13674,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 1419,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOL9sATg",
+      "name": "faq",
+      "nameWithOwner": "coderSuresh/faq",
+      "description": null,
+      "url": "https://github.com/coderSuresh/faq",
+      "isFork": true,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 7461,
+        "edges": [
+          {
+            "size": 4647,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 2389,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 425,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOLjhmWg",
+      "name": "swiperjs-carousel-demo",
+      "nameWithOwner": "coderSuresh/swiperjs-carousel-demo",
+      "description": "Carousel with Swiperjs",
+      "url": "https://github.com/coderSuresh/swiperjs-carousel-demo",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 5655,
+        "edges": [
+          {
+            "size": 5655,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOLh2l8Q",
+      "name": "the-big-dreamers",
+      "nameWithOwner": "coderSuresh/the-big-dreamers",
+      "description": null,
+      "url": "https://github.com/coderSuresh/the-big-dreamers",
+      "isFork": true,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 151166,
+        "edges": [
+          {
+            "size": 100740,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 50426,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOLOuJyg",
+      "name": "NFT-Preview-Card-frontendmentor",
+      "nameWithOwner": "coderSuresh/NFT-Preview-Card-frontendmentor",
+      "description": null,
+      "url": "https://github.com/coderSuresh/NFT-Preview-Card-frontendmentor",
+      "isFork": true,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 4355,
+        "edges": [
+          {
+            "size": 2499,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 1856,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOLDAN_Q",
+      "name": "idea-bank",
+      "nameWithOwner": "coderSuresh/idea-bank",
+      "description": null,
+      "url": "https://github.com/coderSuresh/idea-bank",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 8329,
+        "edges": [
+          {
+            "size": 3799,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 3440,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1090,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOKnwSdQ",
+      "name": "nextjs-dashboard",
+      "nameWithOwner": "coderSuresh/nextjs-dashboard",
+      "description": null,
+      "url": "https://github.com/coderSuresh/nextjs-dashboard",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "totalSize": 86527,
+        "edges": [
+          {
+            "size": 77334,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 8865,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 328,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOKEeJJA",
+      "name": "alert-for-web",
+      "nameWithOwner": "coderSuresh/alert-for-web",
+      "description": "Simple alert dialog component for web",
+      "url": "https://github.com/coderSuresh/alert-for-web",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 1,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "totalSize": 15319,
+        "edges": [
+          {
+            "size": 7267,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 4304,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 3748,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOJsZjiQ",
+      "name": "ip-address-tracker",
+      "nameWithOwner": "coderSuresh/ip-address-tracker",
+      "description": "IP Tracker Master Frontend Mentor Challenge",
+      "url": "https://github.com/coderSuresh/ip-address-tracker",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 24025,
+        "edges": [
+          {
+            "size": 14099,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 8960,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 966,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOJf0ljg",
+      "name": "random-password-generator",
+      "nameWithOwner": "coderSuresh/random-password-generator",
+      "description": "Random password generator",
+      "url": "https://github.com/coderSuresh/random-password-generator",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 7102,
+        "edges": [
+          {
+            "size": 2483,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 2437,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 2182,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOKWv-xQ",
+      "name": "frontend-mentor-nft-preview",
+      "nameWithOwner": "coderSuresh/frontend-mentor-nft-preview",
+      "description": null,
+      "url": "https://github.com/coderSuresh/frontend-mentor-nft-preview",
+      "isFork": true,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 895,
+        "edges": [
+          {
+            "size": 599,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 296,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOKR638Q",
+      "name": "github-readme-stats",
+      "nameWithOwner": "coderSuresh/github-readme-stats",
+      "description": ":zap: Dynamically generated stats for your github readmes",
+      "url": "https://github.com/coderSuresh/github-readme-stats",
+      "isFork": true,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 352026,
+        "edges": [
+          {
+            "size": 351362,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 664,
+            "node": {
+              "name": "Shell",
+              "color": "#89e051"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOJ9O3jA",
+      "name": "toast-for-web",
+      "nameWithOwner": "coderSuresh/toast-for-web",
+      "description": "Show toast messages in your web application easily, with a simple package.",
+      "url": "https://github.com/coderSuresh/toast-for-web",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 8639,
+        "edges": [
+          {
+            "size": 6824,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1377,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 438,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOJ8FhUQ",
+      "name": "smooth-scroll",
+      "nameWithOwner": "coderSuresh/smooth-scroll",
+      "description": "NPM package to implement smooth scroll behaviour on back press",
+      "url": "https://github.com/coderSuresh/smooth-scroll",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 357,
+        "edges": [
+          {
+            "size": 357,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOJ70wrQ",
+      "name": "scroll-on-back",
+      "nameWithOwner": "coderSuresh/scroll-on-back",
+      "description": "Scroll animation on back press",
+      "url": "https://github.com/coderSuresh/scroll-on-back",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 1263,
+        "edges": [
+          {
+            "size": 1263,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOJrGE_g",
+      "name": "static-job-listings-master",
+      "nameWithOwner": "coderSuresh/static-job-listings-master",
+      "description": "Render and filter jobs from json data",
+      "url": "https://github.com/coderSuresh/static-job-listings-master",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 23566,
+        "edges": [
+          {
+            "size": 15195,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 7654,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 717,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOJnTpaw",
+      "name": "rest-country-search",
+      "nameWithOwner": "coderSuresh/rest-country-search",
+      "description": "Search country and view details",
+      "url": "https://github.com/coderSuresh/rest-country-search",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 34133,
+        "edges": [
+          {
+            "size": 15242,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 12382,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 6509,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOJk6rag",
+      "name": "movie-watchlist",
+      "nameWithOwner": "coderSuresh/movie-watchlist",
+      "description": "Search and add movies to watchlist using omdb api",
+      "url": "https://github.com/coderSuresh/movie-watchlist",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 24424,
+        "edges": [
+          {
+            "size": 13572,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 6070,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 4782,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOJhl5rA",
+      "name": "endorsement-app",
+      "nameWithOwner": "coderSuresh/endorsement-app",
+      "description": null,
+      "url": "https://github.com/coderSuresh/endorsement-app",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 6691,
+        "edges": [
+          {
+            "size": 3199,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 2042,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 1450,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOHsDU1Q",
+      "name": "restaurant-employee-management-system",
+      "nameWithOwner": "coderSuresh/restaurant-employee-management-system",
+      "description": "PHP based Restaurant Employee Management System",
+      "url": "https://github.com/coderSuresh/restaurant-employee-management-system",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "PHP",
+        "color": "#4F5D95"
+      },
+      "languages": {
+        "totalSize": 103772,
+        "edges": [
+          {
+            "size": 90031,
+            "node": {
+              "name": "PHP",
+              "color": "#4F5D95"
+            }
+          },
+          {
+            "size": 12891,
+            "node": {
+              "name": "SCSS",
+              "color": "#c6538c"
+            }
+          },
+          {
+            "size": 850,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOIGrF4A",
+      "name": "python",
+      "nameWithOwner": "coderSuresh/python",
+      "description": "Code based on days for python beginner developer",
+      "url": "https://github.com/coderSuresh/python",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 2,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "totalSize": 21200,
+        "edges": [
+          {
+            "size": 21200,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOHsKC4A",
+      "name": "windows-form-app",
+      "nameWithOwner": "coderSuresh/windows-form-app",
+      "description": "Windows form application in Visual Basic .NET",
+      "url": "https://github.com/coderSuresh/windows-form-app",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 2,
+      "primaryLanguage": {
+        "name": "Visual Basic .NET",
+        "color": "#945db7"
+      },
+      "languages": {
+        "totalSize": 52810,
+        "edges": [
+          {
+            "size": 52810,
+            "node": {
+              "name": "Visual Basic .NET",
+              "color": "#945db7"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOIGtZig",
+      "name": "Example.cpp",
+      "nameWithOwner": "coderSuresh/Example.cpp",
+      "description": "easy examples on c++",
+      "url": "https://github.com/coderSuresh/Example.cpp",
+      "isFork": true,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": {
+        "totalSize": 20239,
+        "edges": [
+          {
+            "size": 20239,
+            "node": {
+              "name": "C++",
+              "color": "#f34b7d"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGKg4NA",
+      "name": "colorizza",
+      "nameWithOwner": "coderSuresh/colorizza",
+      "description": "Random color generator in HSL HEX and RGB format ",
+      "url": "https://github.com/coderSuresh/colorizza",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 2,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 13327,
+        "edges": [
+          {
+            "size": 6285,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 5048,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 1994,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOIKWmXw",
+      "name": "3-column-preview-card-component",
+      "nameWithOwner": "coderSuresh/3-column-preview-card-component",
+      "description": null,
+      "url": "https://github.com/coderSuresh/3-column-preview-card-component",
+      "isFork": true,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 3451,
+        "edges": [
+          {
+            "size": 3451,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGJ0thQ",
+      "name": "random-hex-color-generator",
+      "nameWithOwner": "coderSuresh/random-hex-color-generator",
+      "description": "This JavaScript code is capable of creating random hex color code. Live preview: https://codersuresh.github.io/random-hex-color",
+      "url": "https://github.com/coderSuresh/random-hex-color-generator",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 3,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 5113,
+        "edges": [
+          {
+            "size": 2304,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 1655,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1154,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGIDoYA",
+      "name": "live-character-counter",
+      "nameWithOwner": "coderSuresh/live-character-counter",
+      "description": "This is a simple program that counts characters entered by the users in real-time and also shows the remaining characters. live preview: https://codersuresh.github.io/live-character-counter",
+      "url": "https://github.com/coderSuresh/live-character-counter",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 2991,
+        "edges": [
+          {
+            "size": 1468,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 776,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 747,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGfAHzQ",
+      "name": "launch-countdown-timer",
+      "nameWithOwner": "coderSuresh/launch-countdown-timer",
+      "description": "Coming soon launch countdown timer. Front end challenge solved using HTML, SCSS, and JS",
+      "url": "https://github.com/coderSuresh/launch-countdown-timer",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "SCSS",
+        "color": "#c6538c"
+      },
+      "languages": {
+        "totalSize": 5835,
+        "edges": [
+          {
+            "size": 3797,
+            "node": {
+              "name": "SCSS",
+              "color": "#c6538c"
+            }
+          },
+          {
+            "size": 1116,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 922,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOIYADKA",
+      "name": "export-xls-file",
+      "nameWithOwner": "coderSuresh/export-xls-file",
+      "description": "PHP code to export table in XLS format",
+      "url": "https://github.com/coderSuresh/export-xls-file",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 1009,
+        "edges": [
+          {
+            "size": 883,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 126,
+            "node": {
+              "name": "PHP",
+              "color": "#4F5D95"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOHztpkg",
+      "name": "manage-landing-page-master",
+      "nameWithOwner": "coderSuresh/manage-landing-page-master",
+      "description": null,
+      "url": "https://github.com/coderSuresh/manage-landing-page-master",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 38508,
+        "edges": [
+          {
+            "size": 21229,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 16433,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 846,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOHzrDLA",
+      "name": "first-react-todo-list",
+      "nameWithOwner": "coderSuresh/first-react-todo-list",
+      "description": "Tried React for the first time. ",
+      "url": "https://github.com/coderSuresh/first-react-todo-list",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 10924,
+        "edges": [
+          {
+            "size": 7865,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 2129,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 930,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGc7hiw",
+      "name": "nft-preview-card",
+      "nameWithOwner": "coderSuresh/nft-preview-card",
+      "description": "NFT preview card frontend mentor challenge using HTML CSS and SCSS. Live preview: https://codersuresh.github.io/nft-preview-card",
+      "url": "https://github.com/coderSuresh/nft-preview-card",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "SCSS",
+        "color": "#c6538c"
+      },
+      "languages": {
+        "totalSize": 5327,
+        "edges": [
+          {
+            "size": 3430,
+            "node": {
+              "name": "SCSS",
+              "color": "#c6538c"
+            }
+          },
+          {
+            "size": 1897,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGKGzYA",
+      "name": "random-hsl-color-generator",
+      "nameWithOwner": "coderSuresh/random-hsl-color-generator",
+      "description": "This program is designed to create random HSL color code when a button is clicked. Live preview: https://codersuresh.github.io/random-hsl-color-generator",
+      "url": "https://github.com/coderSuresh/random-hsl-color-generator",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 1592,
+        "edges": [
+          {
+            "size": 625,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 565,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 402,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGHh-cg",
+      "name": "background-color-changer",
+      "nameWithOwner": "coderSuresh/background-color-changer",
+      "description": "A JavaScript program to change background color when a button is clicked. Live preview: https://codersuresh.github.io/background-color-changer",
+      "url": "https://github.com/coderSuresh/background-color-changer",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 1028,
+        "edges": [
+          {
+            "size": 426,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 356,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 246,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGHPsTA",
+      "name": "javascript-counter",
+      "nameWithOwner": "coderSuresh/javascript-counter",
+      "description": "simple counter made by using JavaScript. Live preview: https://codersuresh.github.io/javascript-counter",
+      "url": "https://github.com/coderSuresh/javascript-counter",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 1790,
+        "edges": [
+          {
+            "size": 846,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 700,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 244,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGF3_jQ",
+      "name": "typolia-landing",
+      "nameWithOwner": "coderSuresh/typolia-landing",
+      "description": "Tried to create my own design and convert it to HTML and CSS. Since I don't know JavaScript, I faced problem with mobile menu. ",
+      "url": "https://github.com/coderSuresh/typolia-landing",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 3,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 6146,
+        "edges": [
+          {
+            "size": 3136,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 2296,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 714,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDQ5MzQ4Nzk=",
+      "name": "sunnyside-agency-landing",
+      "nameWithOwner": "coderSuresh/sunnyside-agency-landing",
+      "description": "Sunnyside agency landing page challenge of frontend mentor solved by using HTML, CSS and JS. Live preview: https://codersuresh.github.io/sunnyside-agency-landing",
+      "url": "https://github.com/coderSuresh/sunnyside-agency-landing",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 15330,
+        "edges": [
+          {
+            "size": 8329,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 6713,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 288,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDQyOTM1OTA=",
+      "name": "price-card-with-toggle",
+      "nameWithOwner": "coderSuresh/price-card-with-toggle",
+      "description": "Pricing component with toggle front end mentor JavaScript junior challenge solved by using HTML CSS and JavaScript",
+      "url": "https://github.com/coderSuresh/price-card-with-toggle",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 7308,
+        "edges": [
+          {
+            "size": 4265,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 2465,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 578,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDM5NjIwODM=",
+      "name": "custom-radio-button",
+      "nameWithOwner": "coderSuresh/custom-radio-button",
+      "description": "Custom radio button created with HTML and pure CSS only. Live preview: https://codersuresh.github.io/custom-radio-button",
+      "url": "https://github.com/coderSuresh/custom-radio-button",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 1641,
+        "edges": [
+          {
+            "size": 1034,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 607,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDI5NDc2NTQ=",
+      "name": "chat-app",
+      "nameWithOwner": "coderSuresh/chat-app",
+      "description": "Chat app challenge by frontend mentor solved by using HTML and CSS only. Live preview: https://codersuresh.github.io/chat-app",
+      "url": "https://github.com/coderSuresh/chat-app",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 12725,
+        "edges": [
+          {
+            "size": 8733,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 3992,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDE3Mjk2NDI=",
+      "name": "simple-portfolio",
+      "nameWithOwner": "coderSuresh/simple-portfolio",
+      "description": "Simple portfolio website developed by using HTML and CSS. Design is from internet. live preview: https://codersuresh.github.io/simple-portfolio",
+      "url": "https://github.com/coderSuresh/simple-portfolio",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 29276,
+        "edges": [
+          {
+            "size": 20676,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 8438,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 162,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDEwMDM0MjA=",
+      "name": "responsive-menu",
+      "nameWithOwner": "coderSuresh/responsive-menu",
+      "description": "This is a responsive hamburger menu made by using simple HTML CSS and very few lines of simple JS code.",
+      "url": "https://github.com/coderSuresh/responsive-menu",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 2720,
+        "edges": [
+          {
+            "size": 1436,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 1125,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 159,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDA0NjYyNDk=",
+      "name": "fylo-landing-2-col",
+      "nameWithOwner": "coderSuresh/fylo-landing-2-col",
+      "description": "Fylo landing page with two column challenge solved by using HTML and CSS. Live preview: https://codersuresh.github.io/fylo-landing-2-col",
+      "url": "https://github.com/coderSuresh/fylo-landing-2-col",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 13148,
+        "edges": [
+          {
+            "size": 6079,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 5729,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1340,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnk0MDA0MDE4MjI=",
+      "name": "clipboard",
+      "nameWithOwner": "coderSuresh/clipboard",
+      "description": "Clipboard landing page created using HTML and CSS. ",
+      "url": "https://github.com/coderSuresh/clipboard",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 10679,
+        "edges": [
+          {
+            "size": 6011,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 4668,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTg5ODY2NzU=",
+      "name": "Simple-Email-Validation",
+      "nameWithOwner": "coderSuresh/Simple-Email-Validation",
+      "description": "This is a simple email form validation to show success or error based on if input field is empty or not using JavaScript.",
+      "url": "https://github.com/coderSuresh/Simple-Email-Validation",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 2395,
+        "edges": [
+          {
+            "size": 1025,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 690,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 680,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTc0NDY2MjY=",
+      "name": "huddle-landing-curve",
+      "nameWithOwner": "coderSuresh/huddle-landing-curve",
+      "description": "This is update of previous repo huddle-landing created to solve its issue.",
+      "url": "https://github.com/coderSuresh/huddle-landing-curve",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 17467,
+        "edges": [
+          {
+            "size": 8958,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 8509,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTcxNDc1MjM=",
+      "name": "four-card",
+      "nameWithOwner": "coderSuresh/four-card",
+      "description": "Four Card Feature Section responsive grid layout challenge solved by using HTML and CSS",
+      "url": "https://github.com/coderSuresh/four-card",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 4596,
+        "edges": [
+          {
+            "size": 2542,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 2054,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTY3Mzk0ODU=",
+      "name": "testimonials-grid-section",
+      "nameWithOwner": "coderSuresh/testimonials-grid-section",
+      "description": "testimonials grid section challenge solved by using HTML and CSS.",
+      "url": "https://github.com/coderSuresh/testimonials-grid-section",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 7735,
+        "edges": [
+          {
+            "size": 4996,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 2739,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTY1OTI2ODU=",
+      "name": "3-col-card",
+      "nameWithOwner": "coderSuresh/3-col-card",
+      "description": "3 column card component made by using HTML and CSS for learning purpose.",
+      "url": "https://github.com/coderSuresh/3-col-card",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 4013,
+        "edges": [
+          {
+            "size": 2415,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 1598,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTU5MTEwMjg=",
+      "name": "social-proof",
+      "nameWithOwner": "coderSuresh/social-proof",
+      "description": "This is social profile challenge by front end mentor. Solved by using HTML and CSS",
+      "url": "https://github.com/coderSuresh/social-proof",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 8707,
+        "edges": [
+          {
+            "size": 4565,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 4142,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTU1ODk0ODk=",
+      "name": "huddle-landing",
+      "nameWithOwner": "coderSuresh/huddle-landing",
+      "description": "Huddle landing page created with HTML and CSS.",
+      "url": "https://github.com/coderSuresh/huddle-landing",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 15672,
+        "edges": [
+          {
+            "size": 8562,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 7110,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTUxNjE5ODI=",
+      "name": "price-grid",
+      "nameWithOwner": "coderSuresh/price-grid",
+      "description": "this is description",
+      "url": "https://github.com/coderSuresh/price-grid",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 4357,
+        "edges": [
+          {
+            "size": 2267,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 2090,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTQ1MjYyMjU=",
+      "name": "fylo-landing",
+      "nameWithOwner": "coderSuresh/fylo-landing",
+      "description": "Fylo landing page using HTML and CSS only",
+      "url": "https://github.com/coderSuresh/fylo-landing",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 15939,
+        "edges": [
+          {
+            "size": 8038,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 7901,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzOTQxODUyNDA=",
+      "name": "Order-Summary",
+      "nameWithOwner": "coderSuresh/Order-Summary",
+      "description": "Order summary challenge by front end mentor solved by using HTML and CSS only.",
+      "url": "https://github.com/coderSuresh/Order-Summary",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 3966,
+        "edges": [
+          {
+            "size": 2787,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 1179,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzODgzNzM2NDU=",
+      "name": "huddle-landing-page",
+      "nameWithOwner": "coderSuresh/huddle-landing-page",
+      "description": null,
+      "url": "https://github.com/coderSuresh/huddle-landing-page",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 4607,
+        "edges": [
+          {
+            "size": 2590,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 2017,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzODMxNzIyNzg=",
+      "name": "folio",
+      "nameWithOwner": "coderSuresh/folio",
+      "description": null,
+      "url": "https://github.com/coderSuresh/folio",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 7129,
+        "edges": [
+          {
+            "size": 4104,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 2960,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 65,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOHjtQLw",
+      "name": "responsivenavbar",
+      "nameWithOwner": "coderSuresh/responsivenavbar",
+      "description": null,
+      "url": "https://github.com/coderSuresh/responsivenavbar",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 2164,
+        "edges": [
+          {
+            "size": 1405,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 759,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOHaLktg",
+      "name": "Visual-Basic-Console-App",
+      "nameWithOwner": "coderSuresh/Visual-Basic-Console-App",
+      "description": null,
+      "url": "https://github.com/coderSuresh/Visual-Basic-Console-App",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Visual Basic .NET",
+        "color": "#945db7"
+      },
+      "languages": {
+        "totalSize": 20018,
+        "edges": [
+          {
+            "size": 20018,
+            "node": {
+              "name": "Visual Basic .NET",
+              "color": "#945db7"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGgroqQ",
+      "name": "Java-Programming",
+      "nameWithOwner": "coderSuresh/Java-Programming",
+      "description": "Object Oriented Programming in Java.",
+      "url": "https://github.com/coderSuresh/Java-Programming",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": {
+        "totalSize": 21881,
+        "edges": [
+          {
+            "size": 21881,
+            "node": {
+              "name": "Java",
+              "color": "#b07219"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOHCI1Kg",
+      "name": "flutter-basics",
+      "nameWithOwner": "coderSuresh/flutter-basics",
+      "description": "Flutter basics, as its name suggests, is a GitHub repo to host basic flutter projects developed as a learning part.",
+      "url": "https://github.com/coderSuresh/flutter-basics",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Dart",
+        "color": "#00B4AB"
+      },
+      "languages": {
+        "totalSize": 108483,
+        "edges": [
+          {
+            "size": 75962,
+            "node": {
+              "name": "Dart",
+              "color": "#00B4AB"
+            }
+          },
+          {
+            "size": 16822,
+            "node": {
+              "name": "C++",
+              "color": "#f34b7d"
+            }
+          },
+          {
+            "size": 7947,
+            "node": {
+              "name": "CMake",
+              "color": "#DA3434"
+            }
+          },
+          {
+            "size": 4848,
+            "node": {
+              "name": "Swift",
+              "color": "#F05138"
+            }
+          },
+          {
+            "size": 1431,
+            "node": {
+              "name": "Kotlin",
+              "color": "#A97BFF"
+            }
+          },
+          {
+            "size": 734,
+            "node": {
+              "name": "C",
+              "color": "#555555"
+            }
+          },
+          {
+            "size": 456,
+            "node": {
+              "name": "Objective-C",
+              "color": "#438eff"
+            }
+          },
+          {
+            "size": 283,
+            "node": {
+              "name": "Java",
+              "color": "#b07219"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOG6R0Pw",
+      "name": "advice-generator-app-main",
+      "nameWithOwner": "coderSuresh/advice-generator-app-main",
+      "description": "Random advice generator app created with Advice Slip API. This challenge was offered by Frontend mentor and solved by me.",
+      "url": "https://github.com/coderSuresh/advice-generator-app-main",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "SCSS",
+        "color": "#c6538c"
+      },
+      "languages": {
+        "totalSize": 4176,
+        "edges": [
+          {
+            "size": 2163,
+            "node": {
+              "name": "SCSS",
+              "color": "#c6538c"
+            }
+          },
+          {
+            "size": 1423,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 590,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOG3XNcQ",
+      "name": "sensor-detector-lite",
+      "nameWithOwner": "coderSuresh/sensor-detector-lite",
+      "description": null,
+      "url": "https://github.com/coderSuresh/sensor-detector-lite",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": {
+        "totalSize": 8624,
+        "edges": [
+          {
+            "size": 8624,
+            "node": {
+              "name": "Java",
+              "color": "#b07219"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGl6LFQ",
+      "name": "intro-component-with-signup-form",
+      "nameWithOwner": "coderSuresh/intro-component-with-signup-form",
+      "description": null,
+      "url": "https://github.com/coderSuresh/intro-component-with-signup-form",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "SCSS",
+        "color": "#c6538c"
+      },
+      "languages": {
+        "totalSize": 6984,
+        "edges": [
+          {
+            "size": 3075,
+            "node": {
+              "name": "SCSS",
+              "color": "#c6538c"
+            }
+          },
+          {
+            "size": 2668,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1241,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGhBApA",
+      "name": "ping-coming-soon-page-master",
+      "nameWithOwner": "coderSuresh/ping-coming-soon-page-master",
+      "description": "Ping coming soon page master front end challenge by frontend mentor solved using HTML SCSS and JS for form validation. Live preview; https://codersuresh.github.io/ping-coming-soon-page-master",
+      "url": "https://github.com/coderSuresh/ping-coming-soon-page-master",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "SCSS",
+        "color": "#c6538c"
+      },
+      "languages": {
+        "totalSize": 4730,
+        "edges": [
+          {
+            "size": 2758,
+            "node": {
+              "name": "SCSS",
+              "color": "#c6538c"
+            }
+          },
+          {
+            "size": 1515,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 457,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGe_4pg",
+      "name": "faq-accordion",
+      "nameWithOwner": "coderSuresh/faq-accordion",
+      "description": "First try to make FAQ accordion using JS. Design is from frontend mentor. Live preview: https://codersuresh.github.io/faq-accordion",
+      "url": "https://github.com/coderSuresh/faq-accordion",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 7318,
+        "edges": [
+          {
+            "size": 3819,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 3245,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 254,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGg6_WA",
+      "name": "project-tracking-intro-component-master",
+      "nameWithOwner": "coderSuresh/project-tracking-intro-component-master",
+      "description": null,
+      "url": "https://github.com/coderSuresh/project-tracking-intro-component-master",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "SCSS",
+        "color": "#c6538c"
+      },
+      "languages": {
+        "totalSize": 7565,
+        "edges": [
+          {
+            "size": 5485,
+            "node": {
+              "name": "SCSS",
+              "color": "#c6538c"
+            }
+          },
+          {
+            "size": 1624,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 456,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOGKGxvg",
+      "name": "random-rgb-color-generator",
+      "nameWithOwner": "coderSuresh/random-rgb-color-generator",
+      "description": "This program is capable of creating random RGB color on press of a button. Live preview: https://codersuresh.github.io/random-rgb-color-generator",
+      "url": "https://github.com/coderSuresh/random-rgb-color-generator",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 1603,
+        "edges": [
+          {
+            "size": 638,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 565,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 400,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNzY0NDIzMDA=",
+      "name": "Card-challenge-2",
+      "nameWithOwner": "coderSuresh/Card-challenge-2",
+      "description": "Live Preview: ",
+      "url": "https://github.com/coderSuresh/Card-challenge-2",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 4642,
+        "edges": [
+          {
+            "size": 3092,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 1550,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNzkyMDA0OTY=",
+      "name": "profile-card",
+      "nameWithOwner": "coderSuresh/profile-card",
+      "description": "Profile card with plain HTML and CSS",
+      "url": "https://github.com/coderSuresh/profile-card",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 3872,
+        "edges": [
+          {
+            "size": 2225,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 1647,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNjk5MzcxNzI=",
+      "name": "village-camp",
+      "nameWithOwner": "coderSuresh/village-camp",
+      "description": "Learning Web Programming",
+      "url": "https://github.com/coderSuresh/village-camp",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 26077,
+        "edges": [
+          {
+            "size": 15621,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 10391,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 65,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNzk0NzM1ODY=",
+      "name": "Static-landing-page",
+      "nameWithOwner": "coderSuresh/Static-landing-page",
+      "description": null,
+      "url": "https://github.com/coderSuresh/Static-landing-page",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "totalSize": 9139,
+        "edges": [
+          {
+            "size": 5782,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 3357,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNzE5NjUxOTQ=",
+      "name": "Card-Component",
+      "nameWithOwner": "coderSuresh/Card-Component",
+      "description": "Card Component Challenge 2021/05/29",
+      "url": "https://github.com/coderSuresh/Card-Component",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "CSS",
+        "color": "#663399"
+      },
+      "languages": {
+        "totalSize": 4482,
+        "edges": [
+          {
+            "size": 2314,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 2168,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMjQ5NjA3NTk=",
+      "name": "hackPrank",
+      "nameWithOwner": "coderSuresh/hackPrank",
+      "description": "This is a very simple python program made for prank. ",
+      "url": "https://github.com/coderSuresh/hackPrank",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "totalSize": 1483,
+        "edges": [
+          {
+            "size": 1483,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMTk5NzE5MDk=",
+      "name": "Guess-Game-C",
+      "nameWithOwner": "coderSuresh/Guess-Game-C",
+      "description": "This is a simple C program to make guess game. Best practice for beginners.",
+      "url": "https://github.com/coderSuresh/Guess-Game-C",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "C",
+        "color": "#555555"
+      },
+      "languages": {
+        "totalSize": 1492,
+        "edges": [
+          {
+            "size": 1492,
+            "node": {
+              "name": "C",
+              "color": "#555555"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMTAzNDk0MTg=",
+      "name": "PowerCalculator-c",
+      "nameWithOwner": "coderSuresh/PowerCalculator-c",
+      "description": "This is very simple and short c program to calculate power. For example, if you enter 2 as a and 3 as b, this program will put 3 on the power of 2 and calculates and gives output as 2^3 = 8.  If this code doesn't work on your compiler, you have to add some code. If you faced any error, ping me. my facebook link: https://fb.me/cderSuresh",
+      "url": "https://github.com/coderSuresh/PowerCalculator-c",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 1,
+      "primaryLanguage": {
+        "name": "C",
+        "color": "#555555"
+      },
+      "languages": {
+        "totalSize": 295,
+        "edges": [
+          {
+            "size": 295,
+            "node": {
+              "name": "C",
+              "color": "#555555"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDk3NTc3MDI=",
+      "name": "Text-To-Speech",
+      "nameWithOwner": "coderSuresh/Text-To-Speech",
+      "description": "Simple android app to convert user's text to speech.",
+      "url": "https://github.com/coderSuresh/Text-To-Speech",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": {
+        "totalSize": 11140,
+        "edges": [
+          {
+            "size": 11140,
+            "node": {
+              "name": "Java",
+              "color": "#b07219"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNzgxMTcxMjA=",
+      "name": "simple-guess-game-android-",
+      "nameWithOwner": "coderSuresh/simple-guess-game-android-",
+      "description": "This is very simple guess game for android. In this game, apk will generate one random number between 1-20 including 1 & 20. User have to guess that random number within 4 tries. If you are beginner in domain of Android Development , developing this apk will be best practise for you.",
+      "url": "https://github.com/coderSuresh/simple-guess-game-android-",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": {
+        "totalSize": 7815,
+        "edges": [
+          {
+            "size": 7815,
+            "node": {
+              "name": "Java",
+              "color": "#b07219"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNzk4NDgzODA=",
+      "name": "very-simple-calculator",
+      "nameWithOwner": "coderSuresh/very-simple-calculator",
+      "description": "There is nothing special in this program.This is very very simple java program to do calculation of integers only. Beginner can look this code up and try to make similar program to boost their knowledge.",
+      "url": "https://github.com/coderSuresh/very-simple-calculator",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": {
+        "totalSize": 941,
+        "edges": [
+          {
+            "size": 941,
+            "node": {
+              "name": "Java",
+              "color": "#b07219"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNzk2MTY3NzY=",
+      "name": "Android-Multiplication-Table",
+      "nameWithOwner": "coderSuresh/Android-Multiplication-Table",
+      "description": "This is a very simple android app to print multiplication table.  There is no limit. You can print multiplication table of any number  and any range. ",
+      "url": "https://github.com/coderSuresh/Android-Multiplication-Table",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": {
+        "totalSize": 2033,
+        "edges": [
+          {
+            "size": 2033,
+            "node": {
+              "name": "Java",
+              "color": "#b07219"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNzcwODM4NTE=",
+      "name": "Simple-Android-Flash-Light",
+      "nameWithOwner": "coderSuresh/Simple-Android-Flash-Light",
+      "description": "This is a very simple program to to use Camera Flash as a flash light  on Android. You can use these code to develop your own flash light apk.",
+      "url": "https://github.com/coderSuresh/Simple-Android-Flash-Light",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Java",
+        "color": "#b07219"
+      },
+      "languages": {
+        "totalSize": 3196,
+        "edges": [
+          {
+            "size": 3196,
+            "node": {
+              "name": "Java",
+              "color": "#b07219"
+            }
+          }
+        ]
+      }
     }
   ],
   "commitHistory": {
     "user": {
       "contributionsCollection": {
-        "totalCommitContributions": 0,
-        "commitContributionsByRepository": []
+        "totalCommitContributions": 85,
+        "commitContributionsByRepository": [
+          {
+            "repository": {
+              "nameWithOwner": "Aayush-Raut10/Gokuldham-society"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-01-03T08:00:00Z",
+                  "commitCount": 17
+                },
+                {
+                  "occurredAt": "2026-01-02T08:00:00Z",
+                  "commitCount": 1
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/imagecon"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-09-14T07:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2026-09-11T07:00:00Z",
+                  "commitCount": 4
+                },
+                {
+                  "occurredAt": "2026-09-10T07:00:00Z",
+                  "commitCount": 2
+                },
+                {
+                  "occurredAt": "2026-09-09T07:00:00Z",
+                  "commitCount": 2
+                },
+                {
+                  "occurredAt": "2026-09-07T07:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2026-09-06T07:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2026-09-04T07:00:00Z",
+                  "commitCount": 1
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/express-queue-image-processing"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-02-14T08:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2026-01-30T08:00:00Z",
+                  "commitCount": 5
+                },
+                {
+                  "occurredAt": "2026-01-27T08:00:00Z",
+                  "commitCount": 3
+                },
+                {
+                  "occurredAt": "2026-01-25T08:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2026-01-23T08:00:00Z",
+                  "commitCount": 1
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/github-visualizer"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-09-25T07:00:00Z",
+                  "commitCount": 7
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/codersuresh"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-09-25T07:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2026-08-28T07:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2026-03-18T07:00:00Z",
+                  "commitCount": 4
+                },
+                {
+                  "occurredAt": "2026-03-02T08:00:00Z",
+                  "commitCount": 1
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/BIT-TU-2080"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-07-09T07:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2026-07-05T07:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2026-06-13T07:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2026-03-29T07:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2025-12-23T08:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2025-12-19T08:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2025-12-10T08:00:00Z",
+                  "commitCount": 1
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/privacy-policy"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-07-29T07:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2026-05-23T07:00:00Z",
+                  "commitCount": 3
+                },
+                {
+                  "occurredAt": "2025-12-16T08:00:00Z",
+                  "commitCount": 2
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/NM-Solver"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2025-12-19T08:00:00Z",
+                  "commitCount": 5
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/web-assembly-image-filter"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-09-14T07:00:00Z",
+                  "commitCount": 3
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "Aayush-Raut10/Encrypter"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-03-15T07:00:00Z",
+                  "commitCount": 3
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/express-access-refresh-token"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-01-16T08:00:00Z",
+                  "commitCount": 2
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/Server-Sent-Events-Demo"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-03-06T08:00:00Z",
+                  "commitCount": 1
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/multi-tab-sync-using-broadcast-channel"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-02-27T08:00:00Z",
+                  "commitCount": 1
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/express-csrf"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-01-17T08:00:00Z",
+                  "commitCount": 1
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/markify"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2025-11-12T08:00:00Z",
+                  "commitCount": 1
+                }
+              ]
+            }
+          }
+        ]
       }
     },
     "rateLimit": {
       "cost": 1,
-      "remaining": 4975,
+      "remaining": 4993,
       "limit": 5000,
       "resetAt": "2026-09-25T10:51:07Z"
     }
