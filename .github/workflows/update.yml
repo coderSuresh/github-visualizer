@@ -8,12 +8,25 @@ on:
 jobs:
     update-data:
         runs-on: ubuntu-latest
+        permissions:
+            contents: write
+
         steps:
-            - name: Check out repository
-              uses: actions/checkout@v4
-            - name: Set up Node.js
-              uses: actions/setup-node@v4
+            - uses: actions/checkout@v4
+            - uses: actions/setup-node@v4
               with:
                   node-version: 22
-            - name: Run index.js
-              run: node index.js
+
+            - name: Generate SVGs
+              env:
+                  GHUB_TOKEN: ${{ secrets.GHUB_TOKEN }}
+                  USERNAME: ${{ secrets.USERNAME }}
+              run: node src/index.js
+
+            - name: Commit & Push Changes
+              run: |
+                git config --local user.name "github-actions[bot]"
+                git config --local user.email "github-actions[bot]@://github.com"
+                git add data/*.svg
+                git commit -m "update stats svgs" || echo "No changes"
+                git push

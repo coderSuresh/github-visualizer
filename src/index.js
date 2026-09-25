@@ -1,7 +1,8 @@
 import fs from 'fs';
 import dotenv from 'dotenv';
 import path from 'path';
-import { profileStatsQuery, repositoryQuery, commitHistoryQuery } from './queries.js';
+import { profileStatsQuery, repositoryQuery, commitHistoryQuery } from '../src/queries.js';
+import { generateSvg } from './generate-svg.js';
 
 dotenv.config();
 
