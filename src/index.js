@@ -88,5 +88,8 @@ const getAllData = async () => {
     }
 };
 
-getAllData();
-generateSvg();
+getAllData().then(() => {
+    console.log('Data fetched and saved to ./data/data.json');
+    generateSvg();
+    console.log('SVG files generated in ./data/');
+});
