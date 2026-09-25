@@ -1,14 +1,6 @@
 import fs from 'fs';
 import path from 'path';
 
-const filePath = path.join(process.cwd(), './data/data.json');
-
-if (!fs.existsSync(filePath)) {
-    process.exit(1);
-}
-
-const rawData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-
 const aggregateLanguages = (data) => {
     const langMap = {};
 
@@ -30,7 +22,7 @@ const aggregateLanguages = (data) => {
 
     return Object.values(langMap)
         .sort((a, b) => b.size - a.size)
-        .slice(0,10);
+        .slice(0, 10);
 };
 
 const extractCalendarWeeks = (data) => {
@@ -102,7 +94,7 @@ const generateLanguageSvg = (topLangs) => {
 </svg>`;
 };
 
-const generateHeatmapSvg = (weeks) => {
+const generateHeatmapSvg = (weeks, rawData) => {
     let rects = '';
     const colorMap = {
         'NONE': '#ebedf0',
@@ -185,11 +177,20 @@ const generateStatsSvg = (data) => {
 };
 
 export const generateSvg = () => {
+
+    const filePath = path.join(process.cwd(), './data/data.json');
+
+    if (!fs.existsSync(filePath)) {
+        process.exit(1);
+    }
+
+    const rawData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+
     const topLangs = aggregateLanguages(rawData);
     const langSvgContent = generateLanguageSvg(topLangs);
 
     const weeks = extractCalendarWeeks(rawData);
-    const heatmapSvgContent = generateHeatmapSvg(weeks);
+    const heatmapSvgContent = generateHeatmapSvg(weeks, rawData);
 
     const statsSvgContent = generateStatsSvg(rawData);
 
