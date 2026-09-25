@@ -13,7 +13,7 @@ const fetchFromGitHub = async (query, variables) => {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
+            'Authorization': `Bearer ${process.env.GHUB_TOKEN}`,
         },
         body: JSON.stringify({ query, variables }),
     });
@@ -56,9 +56,9 @@ const getAllRepositories = async (username) => {
 
 const getAllData = async () => {
     try {
-        const username = process.env.GITHUB_USERNAME;
-        if (!username || !process.env.GITHUB_TOKEN) {
-            throw new Error(".env file doesn't contain GITHUB_TOKEN or GITHUB_USERNAME.");
+        const username = process.env.USERNAME;
+        if (!username || !process.env.GHUB_TOKEN) {
+            throw new Error(".env file doesn't contain GHUB_TOKEN or USERNAME.");
         }
 
         const [profileRes, commitRes, allRepos] = await Promise.all([
