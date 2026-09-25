@@ -1,10 +1,9 @@
 import fs from 'fs';
 import path from 'path';
 
-const filePath = path.join(process.cwd(), '../data/data.json');
+const filePath = path.join(process.cwd(), './data/data.json');
 
 if (!fs.existsSync(filePath)) {
-    console.error("data.json file not found. Please run the script to fetch data first.");
     process.exit(1);
 }
 
