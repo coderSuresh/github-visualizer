@@ -8,7 +8,7 @@
     <text x="20" y="30" class="title">Suresh Dahal's GitHub Stats</text>
     
     <text x="20" y="65" class="stat-label">Total Commits:</text>
-    <text x="140" y="65" class="stat-val">637</text>
+    <text x="140" y="65" class="stat-val">636</text>
 
     <text x="20" y="90" class="stat-label">Total PRs:</text>
     <text x="140" y="90" class="stat-val">8</text>
