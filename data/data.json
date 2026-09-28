@@ -15,7 +15,7 @@
         "totalCount": 108
       },
       "contributionsCollection": {
-        "totalCommitContributions": 87,
+        "totalCommitContributions": 88,
         "totalIssueContributions": 0,
         "totalPullRequestContributions": 8,
         "totalPullRequestReviewContributions": 2,
@@ -24,9 +24,9 @@
         "totalRepositoriesWithContributedIssues": 0,
         "totalRepositoriesWithContributedPullRequests": 4,
         "totalRepositoriesWithContributedPullRequestReviews": 2,
-        "restrictedContributionsCount": 528,
+        "restrictedContributionsCount": 507,
         "contributionCalendar": {
-          "totalContributions": 636,
+          "totalContributions": 616,
           "weeks": [
             {
               "contributionDays": [
@@ -944,8 +944,8 @@
                 },
                 {
                   "date": "2026-03-11",
-                  "contributionCount": 2,
-                  "contributionLevel": "FIRST_QUARTILE"
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE"
                 },
                 {
                   "date": "2026-03-12",
@@ -978,8 +978,8 @@
                 },
                 {
                   "date": "2026-03-17",
-                  "contributionCount": 1,
-                  "contributionLevel": "FIRST_QUARTILE"
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE"
                 },
                 {
                   "date": "2026-03-18",
@@ -988,18 +988,18 @@
                 },
                 {
                   "date": "2026-03-19",
-                  "contributionCount": 4,
+                  "contributionCount": 3,
                   "contributionLevel": "FIRST_QUARTILE"
                 },
                 {
                   "date": "2026-03-20",
-                  "contributionCount": 3,
-                  "contributionLevel": "FIRST_QUARTILE"
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE"
                 },
                 {
                   "date": "2026-03-21",
-                  "contributionCount": 3,
-                  "contributionLevel": "FIRST_QUARTILE"
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE"
                 }
               ]
             },
@@ -1007,13 +1007,13 @@
               "contributionDays": [
                 {
                   "date": "2026-03-22",
-                  "contributionCount": 4,
-                  "contributionLevel": "FIRST_QUARTILE"
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE"
                 },
                 {
                   "date": "2026-03-23",
-                  "contributionCount": 6,
-                  "contributionLevel": "SECOND_QUARTILE"
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE"
                 },
                 {
                   "date": "2026-03-24",
@@ -1022,8 +1022,8 @@
                 },
                 {
                   "date": "2026-03-25",
-                  "contributionCount": 4,
-                  "contributionLevel": "FIRST_QUARTILE"
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE"
                 },
                 {
                   "date": "2026-03-26",
@@ -2060,6 +2060,11 @@
               "contributionDays": [
                 {
                   "date": "2026-09-27",
+                  "contributionCount": 4,
+                  "contributionLevel": "FIRST_QUARTILE"
+                },
+                {
+                  "date": "2026-09-28",
                   "contributionCount": 0,
                   "contributionLevel": "NONE"
                 }
@@ -2138,12 +2143,117 @@
     },
     "rateLimit": {
       "cost": 1,
-      "remaining": 4999,
+      "remaining": 4998,
       "limit": 5000,
-      "resetAt": "2026-09-27T05:44:17Z"
+      "resetAt": "2026-09-28T05:46:26Z"
     }
   },
   "repositories": [
+    {
+      "id": "R_kgDORCDOYQ",
+      "name": "express-queue-image-processing",
+      "nameWithOwner": "coderSuresh/express-queue-image-processing",
+      "description": "Queue based image processing with BullMQ and Sharp",
+      "url": "https://github.com/coderSuresh/express-queue-image-processing",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "totalSize": 7085,
+        "edges": [
+          {
+            "size": 7085,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "R_kgDOLBtbmg",
+      "name": "BIT-TU-2080",
+      "nameWithOwner": "coderSuresh/BIT-TU-2080",
+      "description": "Contains syllabus, theory, practical and many more. All in one for TU BIT 2080 batch",
+      "url": "https://github.com/coderSuresh/BIT-TU-2080",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 3,
+      "forkCount": 3,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": {
+        "totalSize": 295750,
+        "edges": [
+          {
+            "size": 88726,
+            "node": {
+              "name": "C++",
+              "color": "#f34b7d"
+            }
+          },
+          {
+            "size": 81583,
+            "node": {
+              "name": "C#",
+              "color": "#7355dd"
+            }
+          },
+          {
+            "size": 80418,
+            "node": {
+              "name": "C",
+              "color": "#555555"
+            }
+          },
+          {
+            "size": 22928,
+            "node": {
+              "name": "PHP",
+              "color": "#4F5D95"
+            }
+          },
+          {
+            "size": 10208,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 9296,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 2137,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 454,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "R_kgDOUq9P5g",
       "name": "github-visualizer",
@@ -2303,55 +2413,6 @@
             "node": {
               "name": "HTML",
               "color": "#e34c26"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "R_kgDOLBtbmg",
-      "name": "BIT-TU-2080",
-      "nameWithOwner": "coderSuresh/BIT-TU-2080",
-      "description": "Contains syllabus, theory, practical and many more. All in one for TU BIT 2080 batch",
-      "url": "https://github.com/coderSuresh/BIT-TU-2080",
-      "isFork": false,
-      "isArchived": false,
-      "isPrivate": false,
-      "stargazerCount": 3,
-      "forkCount": 3,
-      "primaryLanguage": {
-        "name": "C++",
-        "color": "#f34b7d"
-      },
-      "languages": {
-        "totalSize": 194209,
-        "edges": [
-          {
-            "size": 88726,
-            "node": {
-              "name": "C++",
-              "color": "#f34b7d"
-            }
-          },
-          {
-            "size": 80418,
-            "node": {
-              "name": "C",
-              "color": "#555555"
-            }
-          },
-          {
-            "size": 22928,
-            "node": {
-              "name": "PHP",
-              "color": "#4F5D95"
-            }
-          },
-          {
-            "size": 2137,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
             }
           }
         ]
@@ -2520,34 +2581,6 @@
             "node": {
               "name": "HTML",
               "color": "#e34c26"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "R_kgDORCDOYQ",
-      "name": "express-queue-image-processing",
-      "nameWithOwner": "coderSuresh/express-queue-image-processing",
-      "description": null,
-      "url": "https://github.com/coderSuresh/express-queue-image-processing",
-      "isFork": false,
-      "isArchived": false,
-      "isPrivate": false,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": {
-        "totalSize": 7085,
-        "edges": [
-          {
-            "size": 7085,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
             }
           }
         ]
@@ -6218,7 +6251,7 @@
   "commitHistory": {
     "user": {
       "contributionsCollection": {
-        "totalCommitContributions": 87,
+        "totalCommitContributions": 88,
         "commitContributionsByRepository": [
           {
             "repository": {
@@ -6318,35 +6351,14 @@
           },
           {
             "repository": {
-              "nameWithOwner": "coderSuresh/codersuresh"
-            },
-            "contributions": {
-              "nodes": [
-                {
-                  "occurredAt": "2026-09-25T07:00:00Z",
-                  "commitCount": 1
-                },
-                {
-                  "occurredAt": "2026-08-28T07:00:00Z",
-                  "commitCount": 1
-                },
-                {
-                  "occurredAt": "2026-03-18T07:00:00Z",
-                  "commitCount": 4
-                },
-                {
-                  "occurredAt": "2026-03-02T08:00:00Z",
-                  "commitCount": 1
-                }
-              ]
-            }
-          },
-          {
-            "repository": {
               "nameWithOwner": "coderSuresh/BIT-TU-2080"
             },
             "contributions": {
               "nodes": [
+                {
+                  "occurredAt": "2026-09-27T07:00:00Z",
+                  "commitCount": 1
+                },
                 {
                   "occurredAt": "2026-07-09T07:00:00Z",
                   "commitCount": 1
@@ -6373,6 +6385,31 @@
                 },
                 {
                   "occurredAt": "2025-12-10T08:00:00Z",
+                  "commitCount": 1
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/codersuresh"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-09-25T07:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2026-08-28T07:00:00Z",
+                  "commitCount": 1
+                },
+                {
+                  "occurredAt": "2026-03-18T07:00:00Z",
+                  "commitCount": 4
+                },
+                {
+                  "occurredAt": "2026-03-02T08:00:00Z",
                   "commitCount": 1
                 }
               ]
@@ -6508,9 +6545,9 @@
     },
     "rateLimit": {
       "cost": 1,
-      "remaining": 4998,
+      "remaining": 4997,
       "limit": 5000,
-      "resetAt": "2026-09-27T05:44:17Z"
+      "resetAt": "2026-09-28T05:46:26Z"
     }
   }
 }
