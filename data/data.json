@@ -31,11 +31,6 @@
             {
               "contributionDays": [
                 {
-                  "date": "2025-09-30",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
-                },
-                {
                   "date": "2025-10-01",
                   "contributionCount": 2,
                   "contributionLevel": "FIRST_QUARTILE"
@@ -2067,19 +2062,19 @@
                   "date": "2026-09-30",
                   "contributionCount": 0,
                   "contributionLevel": "NONE"
+                },
+                {
+                  "date": "2026-10-01",
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE"
                 }
               ]
             }
           ],
           "months": [
             {
-              "name": "Sep",
-              "totalWeeks": 1,
-              "firstDay": "2025-09-01"
-            },
-            {
               "name": "Oct",
-              "totalWeeks": 4,
+              "totalWeeks": 5,
               "firstDay": "2025-10-01"
             },
             {
@@ -2143,9 +2138,9 @@
     },
     "rateLimit": {
       "cost": 1,
-      "remaining": 4997,
+      "remaining": 4998,
       "limit": 5000,
-      "resetAt": "2026-09-30T05:59:53Z"
+      "resetAt": "2026-10-01T06:13:16Z"
     }
   },
   "repositories": [
@@ -6545,9 +6540,9 @@
     },
     "rateLimit": {
       "cost": 1,
-      "remaining": 4999,
+      "remaining": 4997,
       "limit": 5000,
-      "resetAt": "2026-09-30T05:59:53Z"
+      "resetAt": "2026-10-01T06:13:16Z"
     }
   }
 }
