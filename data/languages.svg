@@ -4,34 +4,34 @@
     </style>
     <rect width="100%" height="100%" fill="#ffffff" rx="8" stroke="#e1e4e8" stroke-width="1"/>
     <text x="20" y="30" class="title">Top Languages</text>
-    <rect x="20" y="50" width="92.76978872856398" height="12" fill="#f1e05a" rx="3"/>
-<rect x="114.76978872856398" y="50" width="92.68321263639919" height="12" fill="#4F5D95" rx="3"/>
-<rect x="209.45300136496317" y="50" width="70.69302832751865" height="12" fill="#3178c6" rx="3"/>
-<rect x="282.1460296924818" y="50" width="65.70266789435651" height="12" fill="#663399" rx="3"/>
-<rect x="349.84869758683834" y="50" width="56.89551815504635" height="12" fill="#e34c26" rx="3"/>
-<rect x="408.74421574188466" y="50" width="18.262260710557875" height="12" fill="#f34b7d" rx="3"/>
-<rect x="429.00647645244254" y="50" width="12.026921761968033" height="12" fill="#555555" rx="3"/>
-<rect x="443.03339821441057" y="50" width="11.674607152199869" height="12" fill="#7355dd" rx="3"/>
-<rect x="456.70800536661045" y="50" width="10.870236550450542" height="12" fill="#00B4AB" rx="3"/>
-<rect x="469.578241917061" y="50" width="10.421758082938997" height="12" fill="#945db7" rx="3"/>
+    <rect x="20" y="50" width="90.94720646417282" height="12" fill="#f1e05a" rx="3"/>
+<rect x="112.94720646417282" y="50" width="90.79720421226774" height="12" fill="#4F5D95" rx="3"/>
+<rect x="205.74441067644057" y="50" width="77.98981567998335" height="12" fill="#3178c6" rx="3"/>
+<rect x="285.7342263564239" y="50" width="64.55942714072123" height="12" fill="#663399" rx="3"/>
+<rect x="352.2936534971451" y="50" width="55.737752649477336" height="12" fill="#e34c26" rx="3"/>
+<rect x="410.03140614662243" y="50" width="17.890642414600464" height="12" fill="#f34b7d" rx="3"/>
+<rect x="429.9220485612229" y="50" width="11.78218622557238" height="12" fill="#555555" rx="3"/>
+<rect x="443.70423478679527" y="50" width="11.437040857170224" height="12" fill="#7355dd" rx="3"/>
+<rect x="457.1412756439655" y="50" width="10.649038373096902" height="12" fill="#00B4AB" rx="3"/>
+<rect x="469.7903140170624" y="50" width="10.209685982937536" height="12" fill="#945db7" rx="3"/>
     
             <circle cx="25" cy="85" r="5" fill="#f1e05a"/>
-            <text x="38" y="89" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">JavaScript 21.0%</text>
+            <text x="38" y="89" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">JavaScript 20.6%</text>
 
             <circle cx="192" cy="85" r="5" fill="#4F5D95"/>
-            <text x="205" y="89" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">PHP 21.0%</text>
+            <text x="205" y="89" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">PHP 20.5%</text>
 
             <circle cx="310" cy="85" r="5" fill="#3178c6"/>
-            <text x="323" y="89" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">TypeScript 16.0%</text>
+            <text x="323" y="89" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">TypeScript 17.6%</text>
 
             <circle cx="25" cy="110" r="5" fill="#663399"/>
-            <text x="38" y="114" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">CSS 14.9%</text>
+            <text x="38" y="114" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">CSS 14.6%</text>
 
             <circle cx="143" cy="110" r="5" fill="#e34c26"/>
-            <text x="156" y="114" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">HTML 12.9%</text>
+            <text x="156" y="114" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">HTML 12.6%</text>
 
             <circle cx="268" cy="110" r="5" fill="#f34b7d"/>
-            <text x="281" y="114" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">C++ 4.1%</text>
+            <text x="281" y="114" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">C++ 4.0%</text>
 
             <circle cx="379" cy="110" r="5" fill="#555555"/>
             <text x="392" y="114" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">C 2.7%</text>
@@ -40,9 +40,9 @@
             <text x="38" y="139" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">C# 2.6%</text>
 
             <circle cx="129" cy="135" r="5" fill="#00B4AB"/>
-            <text x="142" y="139" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">Dart 2.5%</text>
+            <text x="142" y="139" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">Dart 2.4%</text>
 
             <circle cx="247" cy="135" r="5" fill="#945db7"/>
-            <text x="260" y="139" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">Visual Basic .NET 2.4%</text>
+            <text x="260" y="139" font-family="Segoe UI, sans-serif" font-size="12" fill="#586069">Visual Basic .NET 2.3%</text>
 
 </svg>
