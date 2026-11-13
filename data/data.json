@@ -15,26 +15,21 @@
         "totalCount": 110
       },
       "contributionsCollection": {
-        "totalCommitContributions": 155,
+        "totalCommitContributions": 154,
         "totalIssueContributions": 0,
         "totalPullRequestContributions": 8,
         "totalPullRequestReviewContributions": 2,
-        "totalRepositoryContributions": 13,
-        "totalRepositoriesWithContributedCommits": 17,
+        "totalRepositoryContributions": 12,
+        "totalRepositoriesWithContributedCommits": 16,
         "totalRepositoriesWithContributedIssues": 0,
         "totalRepositoriesWithContributedPullRequests": 4,
         "totalRepositoriesWithContributedPullRequestReviews": 2,
         "restrictedContributionsCount": 451,
         "contributionCalendar": {
-          "totalContributions": 629,
+          "totalContributions": 627,
           "weeks": [
             {
               "contributionDays": [
-                {
-                  "date": "2025-11-12",
-                  "contributionCount": 2,
-                  "contributionLevel": "FIRST_QUARTILE"
-                },
                 {
                   "date": "2025-11-13",
                   "contributionCount": 0,
@@ -2067,6 +2062,11 @@
                   "date": "2026-11-12",
                   "contributionCount": 0,
                   "contributionLevel": "NONE"
+                },
+                {
+                  "date": "2026-11-13",
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE"
                 }
               ]
             }
@@ -2143,12 +2143,89 @@
     },
     "rateLimit": {
       "cost": 1,
-      "remaining": 4999,
+      "remaining": 4998,
       "limit": 5000,
-      "resetAt": "2026-11-12T07:42:20Z"
+      "resetAt": "2026-11-13T06:58:30Z"
     }
   },
   "repositories": [
+    {
+      "id": "R_kgDOLBtbmg",
+      "name": "BIT-TU-2080",
+      "nameWithOwner": "coderSuresh/BIT-TU-2080",
+      "description": "Contains syllabus, theory, practical and many more. All in one for TU BIT 2080 batch",
+      "url": "https://github.com/coderSuresh/BIT-TU-2080",
+      "isFork": false,
+      "isArchived": false,
+      "isPrivate": false,
+      "stargazerCount": 4,
+      "forkCount": 3,
+      "primaryLanguage": {
+        "name": "C++",
+        "color": "#f34b7d"
+      },
+      "languages": {
+        "totalSize": 295750,
+        "edges": [
+          {
+            "size": 88726,
+            "node": {
+              "name": "C++",
+              "color": "#f34b7d"
+            }
+          },
+          {
+            "size": 81583,
+            "node": {
+              "name": "C#",
+              "color": "#7355dd"
+            }
+          },
+          {
+            "size": 80418,
+            "node": {
+              "name": "C",
+              "color": "#555555"
+            }
+          },
+          {
+            "size": 22928,
+            "node": {
+              "name": "PHP",
+              "color": "#4F5D95"
+            }
+          },
+          {
+            "size": 10208,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 9296,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 2137,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 454,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "R_kgDOUq9P5g",
       "name": "github-visualizer",
@@ -2211,83 +2288,6 @@
           },
           {
             "size": 465,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "R_kgDOLBtbmg",
-      "name": "BIT-TU-2080",
-      "nameWithOwner": "coderSuresh/BIT-TU-2080",
-      "description": "Contains syllabus, theory, practical and many more. All in one for TU BIT 2080 batch",
-      "url": "https://github.com/coderSuresh/BIT-TU-2080",
-      "isFork": false,
-      "isArchived": false,
-      "isPrivate": false,
-      "stargazerCount": 3,
-      "forkCount": 3,
-      "primaryLanguage": {
-        "name": "C++",
-        "color": "#f34b7d"
-      },
-      "languages": {
-        "totalSize": 295750,
-        "edges": [
-          {
-            "size": 88726,
-            "node": {
-              "name": "C++",
-              "color": "#f34b7d"
-            }
-          },
-          {
-            "size": 81583,
-            "node": {
-              "name": "C#",
-              "color": "#7355dd"
-            }
-          },
-          {
-            "size": 80418,
-            "node": {
-              "name": "C",
-              "color": "#555555"
-            }
-          },
-          {
-            "size": 22928,
-            "node": {
-              "name": "PHP",
-              "color": "#4F5D95"
-            }
-          },
-          {
-            "size": 10208,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 9296,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          },
-          {
-            "size": 2137,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          },
-          {
-            "size": 454,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
@@ -6335,7 +6335,7 @@
   "commitHistory": {
     "user": {
       "contributionsCollection": {
-        "totalCommitContributions": 155,
+        "totalCommitContributions": 154,
         "commitContributionsByRepository": [
           {
             "repository": {
@@ -6580,19 +6580,6 @@
           },
           {
             "repository": {
-              "nameWithOwner": "Aayush-Raut10/Encrypter"
-            },
-            "contributions": {
-              "nodes": [
-                {
-                  "occurredAt": "2026-03-15T07:00:00Z",
-                  "commitCount": 3
-                }
-              ]
-            }
-          },
-          {
-            "repository": {
               "nameWithOwner": "coderSuresh/web-assembly-image-filter"
             },
             "contributions": {
@@ -6606,13 +6593,13 @@
           },
           {
             "repository": {
-              "nameWithOwner": "coderSuresh/express-access-refresh-token"
+              "nameWithOwner": "Aayush-Raut10/Encrypter"
             },
             "contributions": {
               "nodes": [
                 {
-                  "occurredAt": "2026-01-16T08:00:00Z",
-                  "commitCount": 2
+                  "occurredAt": "2026-03-15T07:00:00Z",
+                  "commitCount": 3
                 }
               ]
             }
@@ -6625,6 +6612,19 @@
               "nodes": [
                 {
                   "occurredAt": "2026-10-07T07:00:00Z",
+                  "commitCount": 2
+                }
+              ]
+            }
+          },
+          {
+            "repository": {
+              "nameWithOwner": "coderSuresh/express-access-refresh-token"
+            },
+            "contributions": {
+              "nodes": [
+                {
+                  "occurredAt": "2026-01-16T08:00:00Z",
                   "commitCount": 2
                 }
               ]
@@ -6668,28 +6668,15 @@
                 }
               ]
             }
-          },
-          {
-            "repository": {
-              "nameWithOwner": "coderSuresh/markify"
-            },
-            "contributions": {
-              "nodes": [
-                {
-                  "occurredAt": "2025-11-12T08:00:00Z",
-                  "commitCount": 1
-                }
-              ]
-            }
           }
         ]
       }
     },
     "rateLimit": {
       "cost": 1,
-      "remaining": 4998,
+      "remaining": 4997,
       "limit": 5000,
-      "resetAt": "2026-11-12T07:42:20Z"
+      "resetAt": "2026-11-13T06:58:30Z"
     }
   }
 }
