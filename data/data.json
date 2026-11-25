@@ -12,34 +12,24 @@
         "totalCount": 30
       },
       "repositories": {
-        "totalCount": 110
+        "totalCount": 109
       },
       "contributionsCollection": {
-        "totalCommitContributions": 154,
+        "totalCommitContributions": 90,
         "totalIssueContributions": 0,
         "totalPullRequestContributions": 8,
         "totalPullRequestReviewContributions": 2,
-        "totalRepositoryContributions": 12,
-        "totalRepositoriesWithContributedCommits": 16,
+        "totalRepositoryContributions": 11,
+        "totalRepositoriesWithContributedCommits": 15,
         "totalRepositoriesWithContributedIssues": 0,
         "totalRepositoriesWithContributedPullRequests": 4,
         "totalRepositoriesWithContributedPullRequestReviews": 2,
-        "restrictedContributionsCount": 447,
+        "restrictedContributionsCount": 512,
         "contributionCalendar": {
           "totalContributions": 623,
           "weeks": [
             {
               "contributionDays": [
-                {
-                  "date": "2025-11-23",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
-                },
-                {
-                  "date": "2025-11-24",
-                  "contributionCount": 0,
-                  "contributionLevel": "NONE"
-                },
                 {
                   "date": "2025-11-25",
                   "contributionCount": 0,
@@ -2067,6 +2057,16 @@
                   "date": "2026-11-23",
                   "contributionCount": 0,
                   "contributionLevel": "NONE"
+                },
+                {
+                  "date": "2026-11-24",
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE"
+                },
+                {
+                  "date": "2026-11-25",
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE"
                 }
               ]
             }
@@ -2143,9 +2143,9 @@
     },
     "rateLimit": {
       "cost": 1,
-      "remaining": 4998,
+      "remaining": 4999,
       "limit": 5000,
-      "resetAt": "2026-11-23T07:53:25Z"
+      "resetAt": "2026-11-25T08:53:20Z"
     }
   },
   "repositories": [
@@ -2246,48 +2246,6 @@
         "edges": [
           {
             "size": 14046,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "R_kgDOVORkRA",
-      "name": "eventbook",
-      "nameWithOwner": "coderSuresh/eventbook",
-      "description": null,
-      "url": "https://github.com/coderSuresh/eventbook",
-      "isFork": false,
-      "isArchived": false,
-      "isPrivate": false,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": {
-        "totalSize": 131165,
-        "edges": [
-          {
-            "size": 129318,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 1382,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          },
-          {
-            "size": 465,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
@@ -6335,49 +6293,8 @@
   "commitHistory": {
     "user": {
       "contributionsCollection": {
-        "totalCommitContributions": 154,
+        "totalCommitContributions": 90,
         "commitContributionsByRepository": [
-          {
-            "repository": {
-              "nameWithOwner": "coderSuresh/eventbook"
-            },
-            "contributions": {
-              "nodes": [
-                {
-                  "occurredAt": "2026-11-04T08:00:00Z",
-                  "commitCount": 4
-                },
-                {
-                  "occurredAt": "2026-10-25T07:00:00Z",
-                  "commitCount": 10
-                },
-                {
-                  "occurredAt": "2026-10-23T07:00:00Z",
-                  "commitCount": 4
-                },
-                {
-                  "occurredAt": "2026-10-21T07:00:00Z",
-                  "commitCount": 2
-                },
-                {
-                  "occurredAt": "2026-10-19T07:00:00Z",
-                  "commitCount": 10
-                },
-                {
-                  "occurredAt": "2026-10-18T07:00:00Z",
-                  "commitCount": 21
-                },
-                {
-                  "occurredAt": "2026-10-17T07:00:00Z",
-                  "commitCount": 5
-                },
-                {
-                  "occurredAt": "2026-10-16T07:00:00Z",
-                  "commitCount": 8
-                }
-              ]
-            }
-          },
           {
             "repository": {
               "nameWithOwner": "Aayush-Raut10/Gokuldham-society"
@@ -6676,7 +6593,7 @@
       "cost": 1,
       "remaining": 4999,
       "limit": 5000,
-      "resetAt": "2026-11-23T07:53:25Z"
+      "resetAt": "2026-11-25T08:53:20Z"
     }
   }
 }
